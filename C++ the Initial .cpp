@@ -1,4 +1,4 @@
-namespace std;
+using namespace std;
 #include <iostream>
 int main(){
 // A Project is Underway Lol !
